@@ -1,4 +1,6 @@
 export { TwitchClient } from './Client';
+export { CommandParser } from './util/index';
+export type { CommandParseOptions } from './util/index';
 export type { AuthConfig, ClientOptions, ClientEvents } from './Client';
 export type { Ban } from './class/Ban';
 export type { Channel } from './class/Channel';
