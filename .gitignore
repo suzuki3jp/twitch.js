@@ -1,0 +1,15 @@
+# nodeModule
+node_modules/
+
+# temp
+temp/
+
+# test packages
+test/package.json
+test/package-lock.json
+
+# env
+.env
+
+# workspace
+twitch.js.code-workspace
