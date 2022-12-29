@@ -1,5 +1,5 @@
 {
-  "name": "twitch.js",
+  "name": "@suzuki3jp/twitch.js",
   "version": "1.0.0",
   "description": "",
   "main": "./lib/index.js",
