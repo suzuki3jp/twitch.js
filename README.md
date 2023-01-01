@@ -18,4 +18,4 @@ coming soon...
 - [twurple](https://twurple.js.org/): Borrows underlying functionality such as connection to twitch api
 - [discord.js](https://discord.js.org/): Major inspiration on the structure of the libraries (or, as it was back then, the library)
 ## Help
-- [Support Server](https://discord.gg/P6JhU9E2AP)
+- [Support Server](https://discord.gg/Dmd3PbTz4w)
